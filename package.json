@@ -1,0 +1,22 @@
+{
+  "name": "stryve-api-client",
+  "version": "0.0.1",
+  "description": "A wrapper around request/request for handling API requests for Stryve",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicklaw5/stryve-api-client.git"
+  },
+  "author": "Nicholas Law",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicklaw5/stryve-api-client/issues"
+  },
+  "homepage": "https://github.com/nicklaw5/stryve-api-client#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
