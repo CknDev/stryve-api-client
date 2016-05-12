@@ -1,4 +1,4 @@
-var client = require('../lib/index.js')
+var client = require('../lib/index')
 
 var test1 = function(res) {
 	console.log(res);
